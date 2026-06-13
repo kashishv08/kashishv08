@@ -59,7 +59,7 @@
 | [**VORKO**](https://github.com/kashishv08/VORKO) · [Live](https://vorko-lac.vercel.app) | Distributed freelancing platform with real-time video, chat & Stripe payments | Next.js, GraphQL, Prisma, Stream API, Clerk, Stripe |
 | [**BioSan.ai**](https://github.com/kashishv08/Medical_Report_Analyzer) · [Live](https://medical-report-analyzer-tau.vercel.app/) | AI pipeline that converts unstructured medical reports into structured health insights | React, OpenAI API, Supabase, Edge Functions, Zod |
 | [**Store Management**](https://github.com/kashishv08/Store-Management)· [Live](https://store-management-pink-one.vercel.app/) | Full-stack admin platform with role-based access, JWT auth & GraphQL APIs | Next.js, TypeScript, Prisma, GraphQL, Radix UI |
-| [**Vendor**](https://github.com/kashishv08/vendor)· [Live](https://store-management-pink-one.vercel.app/) | Travel planning app with interactive maps, Cloudinary media & secure auth | Node.js, Express, MongoDB, Leaflet.js, Cloudinary |
+| [**Vendor**](https://github.com/kashishv08/vendor)· [Live](https://vendor-project-five.vercel.app/listings) | Travel planning app with interactive maps, Cloudinary media & secure auth | Node.js, Express, MongoDB, Leaflet.js, Cloudinary |
 
 ---
 
