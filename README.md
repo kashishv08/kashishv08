@@ -56,7 +56,7 @@
 **Database**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools & Services**
 
@@ -91,8 +91,6 @@
 <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kashishv08&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kashishv08&theme=github-dark-blue&hide_border=true)
 
 </div>
 
