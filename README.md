@@ -9,7 +9,7 @@
 <p>
   <img src="https://img.shields.io/badge/B.Tech%20CS-AKTU-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/CGPA-9.05%2F10-success?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Graduating-June%202026-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Graduated-June%202026-orange?style=flat-square"/>
   <img src="https://img.shields.io/badge/Open%20to-SWE%20Roles-brightgreen?style=flat-square"/>
 </p>
 
