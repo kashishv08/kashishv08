@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Interning at **Scalenut Technologies** — migrated Shopify extensions to **Rust**, cutting instruction count by **90%** and input size by **38%**
+- 🔭 Interned at **Scalenut Technologies** — migrated Shopify extensions to **Rust**, cutting instruction count by **90%** and input size by **38%**
 - 🛠️ Previously at **Explorin** — built production full-stack features with Next.js, GraphQL, Prisma
 - 💡 I build **distributed, scalable systems** with real-time features, AI pipelines, and payment integrations
 - 📊 **350+ problems** solved on LeetCode & GFG
