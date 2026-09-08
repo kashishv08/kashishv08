@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:3178C6&height=120&section=header" width="100%"/>
-
 # Hi, I'm Kashish Vashistha 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%7C+TypeScript+%7C+GraphQL;Rust+%7C+OpenAI+%7C+Supabase;Building+Scalable+Distributed+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -22,7 +20,7 @@
 - 🔭 Interned at **Scalenut Technologies** — migrated Shopify extensions to **Rust**, cutting instruction count by **90%** and input size by **38%**
 - 🛠️ Previously at **Explorin** — built production full-stack features with Next.js, GraphQL, Prisma
 - 💡 I build **distributed, scalable systems** with real-time features, AI pipelines, and payment integrations
-- 📊 **350+ problems** solved on LeetCode & GFG
+- 📊 **400+ problems** solved on LeetCode & GFG
 - 📬 Reach me at: **kashish.vashistha1@gmail.com**
 
 ---
@@ -103,7 +101,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashish-vashistha)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/V_kashish/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashish.vashistha1@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:6EE7F7&height=100&section=footer" width="100%"/>
 
 </div>
