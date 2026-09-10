@@ -2,7 +2,7 @@
 
 # Hi, I'm Kashish Vashistha 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%7C+TypeScript+%7C+GraphQL;Rust+%7C+OpenAI+%7C+Supabase;Building+Scalable+Distributed+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+%7C+Next.js+%7C+TypeScript;Rust+%7C+AWS+%7C+Redis+%7C+Celery;Building+Scalable+Distributed+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p>
   <img src="https://img.shields.io/badge/B.Tech%20CS-AKTU-blue?style=flat-square"/>
@@ -31,6 +31,7 @@
 
 **Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -45,16 +46,20 @@
 
 **Backend**
 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Database**
+**Database & Infra**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Tools & Services**
 
@@ -75,20 +80,11 @@
 
 | 🚀 Project | 📝 Description | 🛠 Stack |
 |:-----------|:--------------|:---------|
+| [**RydeSaathi**](https://github.com/kashishv08/RydeSaathi) | Ride-hailing platform with real-time driver tracking, async matchmaking & AWS deployment | Django REST Framework · Django Channels · Celery · Redis · AWS · Razorpay |
 | [**Lancify**](https://github.com/kashishv08/VORKO) · [🔗 Live](https://vorko-lac.vercel.app) | Distributed freelancing platform with real-time video, chat & Stripe payments | Next.js · GraphQL · Prisma · Stream API · Clerk · Stripe |
-| [**BioSan.ai**](https://github.com/kashishv08/Medical_Report_Analyzer) · [🔗 Live](https://medical-report-analyzer-tau.vercel.app/) | AI pipeline converting unstructured medical reports into structured health insights | React · OpenAI API · Supabase · Edge Functions · Zod |
+| [**BioSan.ai**](https://github.com/kashishv08/Medical_Report_Analyzer) · [🔗 Live](https://medical-report-analyzer-tau.vercel.app/) | AI pipeline converting unstructured medical reports into structured health insights | React · Groq API · Supabase · Edge Functions · Zod |
 | [**Store Management**](https://github.com/kashishv08/Store-Management) · [🔗 Live](https://store-management-pink-one.vercel.app/) | Full-stack admin platform with role-based access, JWT auth & GraphQL APIs | Next.js · TypeScript · Prisma · GraphQL · Radix UI |
 | [**Vendor**](https://github.com/kashishv08/vendor) · [🔗 Live](https://vendor-project-five.vercel.app/listings) | Travel planning app with interactive maps, Cloudinary media & secure auth | Node.js · Express · MongoDB · Leaflet.js · Cloudinary |
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kashishv08&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
 </div>
 
