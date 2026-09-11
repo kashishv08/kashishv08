@@ -13,18 +13,6 @@
 
 </div>
 
----
-
-## 🚀 About Me
-
-- 🔭 Interned at **Scalenut Technologies** — migrated Shopify extensions to **Rust**, cutting instruction count by **90%** and input size by **38%**
-- 🛠️ Previously at **Explorin** — built production full-stack features with Next.js, GraphQL, Prisma
-- 💡 I build **distributed, scalable systems** with real-time features, AI pipelines, and payment integrations
-- 📊 **400+ problems** solved on LeetCode & GFG
-- 📬 Reach me at: **kashish.vashistha1@gmail.com**
-
----
-
 ## 🧰 Tech Stack
 
 <div align="center">
